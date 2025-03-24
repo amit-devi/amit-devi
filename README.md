@@ -7,6 +7,14 @@
 
 - 🔭 I’m currently working on [Hacking Projects](https://github.com/whitedevil-21?tab=repositories)
 
+- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=whitedevil-21&limit=5&theme=default&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=whitedevil-21&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/er.amit_sir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"                 alt="er.amit_sir" height="30" width="40" /></a>
