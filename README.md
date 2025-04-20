@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Hacking Projects](https://github.com/whitedevil-21?tab=repositories)
 
 - ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=whitedevil-21&limit=20&theme=default&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=whitedevil-21&limit=50&theme=default&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=whitedevil-21&icon=0&color=0)](https://visitcount.itsvg.in)
