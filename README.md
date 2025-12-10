@@ -62,11 +62,11 @@
 <p align="center">
   <a href="https://instagram.com/er.amit_sir" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" target="_blank">
-  </a>
+  </a>&nbsp;
 
   <a href="https://wa.me/918734967027" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=flat-square&logo=whatsapp&logoColor=white" target="_blank">
-  </a>
+  </a>&nbsp;
 
   <a href="mailto:amidevi210@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank">
