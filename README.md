@@ -38,10 +38,10 @@
 
 | Project Name | Description | Language |
 | :--- | :--- | :--- |
-| **[PDF-CRACKER](https://github.com/whitedevil-21/PDF-CRACKER)** | Advanced PDF Password recovery tool. | ![Python](https://img.shields.io/badge/-Python-blue) |
+| **[PDF-CRACKER](https://github.com/whitedevil-21/PDF-CRACKER)** | Advanced PDF Password recovery tool. | ![Shell](https://img.shields.io/badge/-Shell-Black) |
 | **[WIFI-CRACKER](https://github.com/whitedevil-21/WIFI-CRACKER)** | Retrieve saved passwords from local systems. | ![Python](https://img.shields.io/badge/-Python-blue) |
-| **[ZIP-CRACKER](https://github.com/whitedevil-21/ZIP-CRACKER)** | Unlock password-protected ZIP files. | ![Shell](https://img.shields.io/badge/-Shell-black) |
-| **[AADHAR-OSINT](https://github.com/whitedevil-21/AADHAR-OSINT)** | OSINT tool for gathering information (Educational). | ![Python](https://img.shields.io/badge/-Python-blue) |
+| **[ZIP-CRACKER](https://github.com/whitedevil-21/ZIP-CRACKER)** | Unlock password-protected ZIP files. | ![Shell](https://img.shields.io/badge/-Shell-Black) |
+| **[FOLDER-VIRUS](https://github.com/whitedevil-21/FOLDER-VIRUS)** | Creating a 32000+ folders in any path of location in the PC for one click | ![Shell](https://img.shields.io/badge/-Shell-Black) |
 | **[WINDOWS-ACTIVATION](https://github.com/whitedevil-21/WINDOWS-ACTIVATION)** | KMS Activation script for Windows 10/11. | ![Batch](https://img.shields.io/badge/-Batch-gray) |
 
 ---
