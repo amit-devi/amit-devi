@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Amit%20Devi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=whitedevil-21%20%7C%20Ethical%20Hacking%20%26%20Security%20Tools&descAlignY=51&descAlign=62" alt="Amit Devi Header" />
-</div>
 
 <div align="center">
   
@@ -45,18 +42,34 @@
 | **[WINDOWS-ACTIVATION](https://github.com/whitedevil-21/WINDOWS-ACTIVATION)** | KMS Activation script for Windows 10/11. | ![Batch](https://img.shields.io/badge/-Batch-gray) |
 
 ---
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whitedevil-21&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitedevil-21&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
-</div>
+### 💻 Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whitedevil-21&theme=radical&hide_border=true" alt="streak" />
+  <a href="https://python.org">
+    <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo"  />
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
+  </a>
+  <a href="https://www.kali.org/">
+    <img src="https://skillicons.dev/icons?i=kali" height="50" alt="kali logo"  />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" height="50" alt="js logo"  />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo"  />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
+  </a>
+  <a href="https://www.php.net/">
+    <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
+  </a>
 </div>
-
----
 ### 💬 Connect with Me
 
 <p align="center">
