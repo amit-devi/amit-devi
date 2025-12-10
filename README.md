@@ -73,7 +73,3 @@
   </a>
 </p>
 
-<br>
-<div align="center">
-  <i>"Security is not a product, but a process."</i>
-</div>
