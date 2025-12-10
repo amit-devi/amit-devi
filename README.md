@@ -70,7 +70,8 @@
     <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
   </a>
 </div>
-### 💬 Connect with Me
+
+💬 Connect with Me
 
 <p align="center">
   <a href="https://instagram.com/er.amit_sir" target="_blank">
