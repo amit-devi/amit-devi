@@ -57,16 +57,21 @@
 </div>
 
 ---
+### 💬 Connect with Me
 
-### 📫 Connect with Me
-<div align="center">
+<p align="center">
   <a href="https://instagram.com/er.amit_sir" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-er.amit__sir-E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+
+  <a href="https://wa.me/918734967027" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=flat-square&logo=whatsapp&logoColor=white" target="_blank">
   </a>
-</div>
+
+  <a href="mailto:amidevi210@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</p>
 
 <br>
 <div align="center">
