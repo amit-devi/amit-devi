@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>whitedevil-21(Amit Devi)</h1>
+  <h1>Amit Devi</h1>
 </div>
 <div align="center">
   
