@@ -13,7 +13,7 @@
 
 ### 🧐 About Me
 - 👤 **Name:** Amit Devi
-- 🆔 **Alias:** whitedevil-21
+- 🆔 **Alias:** amit-devi
 - 📍 **Location:** Gujarat, India
 - 🔭 **I’m currently working on:** Advanced Security & Penetration Testing Tools
 - 🎯 **Focus:** Python Scripting, Termux Tools, Windows Automation & Network Security
